@@ -1,0 +1,4 @@
+
+In this ambitious machine learning project, I meticulously analyzed the Titanic survival dataset, employing logistic regression to predict survival probabilities. Beginning with rigorous data preprocessing to ensure integrity, I delved into visual exploration, crafting insightful charts and graphs with Python libraries. Leveraging scikit-learn, I developed and fine-tuned the logistic regression model, exploring technical intricacies such as regularization and feature selection. Through meticulous evaluation, the model offered nuanced insights into survival patterns, revealing correlations between passenger attributes and survival probabilities. This project exemplifies the transformative potential of data analysis in uncovering insights from historical tragedies.
+
+![Screenshot (250)](https://github.com/kyle89891/Titanic-Survival-Prediction-Model/assets/81356431/b2563435-c32a-4ea9-a120-d4f64e3c89ae)
